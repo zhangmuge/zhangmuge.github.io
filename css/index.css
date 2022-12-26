@@ -196,6 +196,9 @@ footer .btn .iconfont,
 footer .btn span {
   color: white;
 }
+footer .btn .iconfont{
+  font-size: 4.26667vmin;
+}
 footer .btn i {
   margin-right: 2.66667vmin;
   vertical-align: middle;
